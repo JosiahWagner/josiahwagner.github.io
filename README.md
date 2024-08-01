@@ -3,14 +3,14 @@
 
 # _Who am I?_
 
-I am an Disciple, Husband, Father, and Engineer that is always trying to learn something new. This page is my attempt to
-create a place to show off some of the cool things I've figured out how to do. I consider myself a "jack of all trades". 
-I strive to learn and understand a little (sometimes a lot) of everything and develop expertise in as many areas as I can.
+I am an Disciple, Husband, Father, and Engineer that is always trying to learn something new. This page is my attempt to 
+create a place to show off some of the cool things I've figured out how to do. I consider myself a "jack of all trades" 
+and I strive to learn, understand, and develop expertise in as many areas as I can.
 
 # _Things that interest me_
 
-I like practically every science and engineering topic out there. If you know me, you'll know how often I can change what
-I'm interested in but, whatever it is, it usually involves creating or designing something. This webpage exists out of my
+I like practically every science and engineering topic out there. If you know me, you'll know how often I can change what 
+I'm interested in but, whatever it is, it usually involves creating or designing something. This webpage exists out of my 
 specific desire to learn more about coding but I'm also interested in woodworking, cars, aircraft, semiconductors, 
 photography, and a bunch of other things.
 
