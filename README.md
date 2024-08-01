@@ -1,6 +1,8 @@
 
 # If you're reading this, you found me!
 
+![Me, with a beautifully blurred Palo Verde tree in the background](/pfp.PNG)
+
 ### _Who am I?_
 
 I am an Disciple, Husband, Father, and Engineer that is always trying to learn something new. This page is my attempt to
