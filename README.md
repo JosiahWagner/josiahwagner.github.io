@@ -60,3 +60,9 @@ photography, and a bunch of other things.
 - TIMS
 
 - TrackWorks/ProcessWorks
+
+### _Contact me!_
+
+Please feel free to email, call, or text me anytime!
+Email: josiah.d.wagner@gmail.com
+Cell: (520) 331-2114
