@@ -63,6 +63,6 @@ photography, and a bunch of other things.
 
 ### _Contact me!_
 
-Please feel free to email, call, or text me anytime!
-Email: josiah.d.wagner@gmail.com
+Please feel free to email, call, or text me anytime!  
+Email: josiah.d.wagner@gmail.com  
 Cell: (520) 331-2114
