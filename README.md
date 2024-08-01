@@ -4,9 +4,8 @@
 # _Who am I?_
 
 I am an Disciple, Husband, Father, and Engineer that is always trying to learn something new. This page is my attempt to
-create a place to show off some of the cool things I've figured out how to do. I consider myself a "jack of all trades, 
-master of none". I strive to learn and understand a little (sometimes a lot) of everything but I don't consider myself 
-an expert in anything.
+create a place to show off some of the cool things I've figured out how to do. I consider myself a "jack of all trades". 
+I strive to learn and understand a little (sometimes a lot) of everything and develop expertise in as many areas as I can.
 
 # _Things that interest me_
 
