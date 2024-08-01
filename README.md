@@ -1,7 +1,7 @@
 
 # If you're reading this, you found me!
 
-![Me, with a beautifully blurred Palo Verde tree in the background](/pfp.PNG)
+![Me](/pfp.PNG "Me, with a beautifully blurred Palo Verde tree in the background")
 
 ### _Who am I?_
 
