@@ -17,40 +17,44 @@ photography, and a bunch of other things.
 
 ### _Work Experience_
 
-- #### **Process/Equipment Engineer**, Texas Instruments, Inc.
+- **Process/Equipment Engineer**, Texas Instruments, Inc. 2021-Present
 
-- #### **System Administrator**, Lightwave Technical Consulting, LLC
+- **System Administrator**, Lightwave Technical Consulting, LLC 2016-2021
+
+### _Education_
+
+- **Bachelor of Science, Mechanical Engineering**, The University of Arizona, 2021
 
 ### _Skills_
 
-- #### Python, R, SQL Scripting
+- Python, R, SQL Scripting
 
-- #### Process Management and Optimization
+- Process Management and Optimization
 
-- #### Equipment Repair, Maintenance, Calibration, and Documentation
+- Equipment Repair, Maintenance, Calibration, and Documentation
 
-- #### Data Synthesis, Analysis, and Visualization
+- Data Synthesis, Analysis, and Visualization
 
-- #### Internal/External Stakeholder Relationship Development
+- Internal/External Stakeholder Relationship Development
 
-- #### CAD Drafting/Modeling
+- CAD Drafting/Modeling
 
 ### _Resources I Use_
 
-- #### Python
+- Python
 
-- #### R
+- R
 
-- #### SQL
+- SQL
 
-- #### TIBCO Spotfire
+- TIBCO Spotfire
 
-- #### Autodesk Inventor
+- Autodesk Inventor
 
-- #### Dassault Solidworks
+- Dassault Solidworks
 
-- #### Microsoft Office
+- Microsoft Office
 
-- #### TIMS
+- TIMS
 
-- #### TrackWorks/ProcessWorks
+- TrackWorks/ProcessWorks
