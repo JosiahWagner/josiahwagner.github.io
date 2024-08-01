@@ -10,7 +10,7 @@ and develop expertise in as many areas as I can.
 # _Things that interest me_
 
 I'm interested in practically every science and engineering topic out there. If you know me, you'll know I have many 
-different hobbyies but, no matter what I'm focused on in the moment, it usually involves creating or designing something. 
+different hobbies but, no matter what I'm focused on in the moment, it usually involves creating or designing something. 
 This webpage exists out of my specific desire to learn more about coding but I'm also interested in woodworking, cars, 
 aircraft, semiconductors, photography, among other things.
 
