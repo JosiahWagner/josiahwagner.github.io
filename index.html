@@ -11,23 +11,18 @@
         <nav class="navbar navbar-expand-xxl sticky-top bg-body-tertiary"> <!--Adds Navigation Bar (main webpage header)-->
             <div class="container pt-2"> <!--Add container for navbar-->
                 <a class="navbar-brand"><h2>Josiah Wagner</h1></a> <!--navbar-brand used for logo or, in this case, my name as the "title" of the navbar-->
-                    <ul class="navbar-nav"> <!--Define actual navbar links and what they point to-->
-                        <li class="nav-item">
-                            <a class="nav-link scrollto active" href="#who-am-i">About</a> <!--Use scrollto active with href=#id to scroll to an item on the page-->
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link scrollto active" href="#industry-experience">Experience</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link scrollto active" href="#education">Education</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link scrollto active" href="#skills">Skills</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link scrollto active" href="#contact-me">Contact</a>
-                        </li>
-                    </ul>
+                    <div class="dropdown">
+                        <button type="button" class="btn dropdown-toggle" data-bs-toggle="dropdown">Menu</button>
+                            <ul class="dropdown-menu"> <!--Creates dropdown menu-->
+                                <li>
+                                    <a class="dropdown-item scrollto" href="#who-am-i">About</a> <!--Use scrollto with href=#id to scroll to an item on the page-->
+                                    <a class="dropdown-item scrollto" href="##industry-experience">Experience</a>
+                                    <a class="dropdown-item scrollto" href="#education">Education</a>
+                                    <a class="dropdown-item scrollto" href="#skills">Skills</a>
+                                    <a class="dropdown-item scrollto" href="#contact-me">Contact</a>
+                                </li>
+                            </ul>
+                    </div>
                 </div>
             </nav>
         <div class="container"> <!--Add container for main part of webpage-->
